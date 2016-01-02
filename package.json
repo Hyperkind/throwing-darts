@@ -1,0 +1,26 @@
+{
+  "name": "010216morningchallenge",
+  "version": "1.0.0",
+  "description": "throwing darts morning challenge",
+  "main": "scoreThrows.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/42cfed654626993c51e6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/42cfed654626993c51e6"
+  },
+  "homepage": "https://gist.github.com/42cfed654626993c51e6",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
